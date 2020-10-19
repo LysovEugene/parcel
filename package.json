@@ -1,23 +1,20 @@
 {
-  "name": "goit-js-hw-08-gallery",
+  "name": "parcel",
   "version": "1.0.0",
   "description": "",
-  "main": "gallery-items.js",
+  "main": "index.js",
   "scripts": {
-    "dev": "parcel <your entry file>",
-    "build": "parcel build <your entry file>"
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html "
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LysovEugene/goit-js-hw-08-gallery.git"
+    "url": "git+https://github.com/LysovEugene/parcel.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LysovEugene/goit-js-hw-08-gallery/issues"
+    "url": "https://github.com/LysovEugene/parcel/issues"
   },
-  "homepage": "https://github.com/LysovEugene/goit-js-hw-08-gallery#readme",
-  "devDependencies": {
-    "parcel-bundler": "^1.12.4"
-  }
+  "homepage": "https://github.com/LysovEugene/parcel#readme"
 }
